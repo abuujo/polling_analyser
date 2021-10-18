@@ -1,0 +1,18 @@
+INFO:root:File Root : C:/files
+INFO:root:File path set as : C:/files\pm.txt
+INFO:root:File Directory set as : PV
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser/files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser/files\pm.txt
+INFO:root:File Directory set as : PV
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyserfiles
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyserfiles\pm.txt
+INFO:root:File Directory set as : PV
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser/
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser/pm.txt
+INFO:root:File Directory set as : PV
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files/
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files/pm.txt
+INFO:root:File Directory set as : PV
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\pm.txt
+INFO:root:File Directory set as : PV
