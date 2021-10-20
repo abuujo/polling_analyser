@@ -4,6 +4,7 @@ import logging
 import sys
 
 from constants import FILE_DIRECTORY
+from processor.process_pv import establish_df as pv_establish_df
 
 '''
 This system is ment to automate the process I go through to produce the 
@@ -25,19 +26,19 @@ def main(args):
     logging.info('File Directory set as : %s', args.type)
     
     # Analyse Primary Vote
-    if args.type == "--PV":
-        pass
+    if args.type == "PV":
+        pv_establish_df(FILE_PATH, logging)
 
     # Analyse Two Party Preferred 
-    if args.type == "--TPP":
+    if args.type == "TPP":
         pass
 
     # Analyse Leadership Satisfaction
-    if args.type == "--LS":
+    if args.type == "LS":
         pass
 
     # Analyse Preferred Prime Minister
-    if args.type == "--PPM":
+    if args.type == "PPM":
         pass
     
     print("Finished.")
