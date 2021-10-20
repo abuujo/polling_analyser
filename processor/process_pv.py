@@ -32,6 +32,17 @@ def establish_df(FILE_PATH,logging):
     analyse_party("p_alp", df, logging)
     analyse_party("p_grn", df, logging)
     analyse_party("p_other", df, logging)
+
+    # Make Raw File for Scatter Plot
+    poll_data = df.drop(['brand', 'interview_mode', 'sample_size'],1)
+    poll_data = poll_data.melt(id_vars=['end_date'])
+    poll_data['value'] = poll_data['value'].str.replace('%', '')
+
+    file_str = "poll_data" + ".csv"
+    FILE_PATH_DF = os.path.join(FILE_DIRECTOR_UNWEIGHTED, file_str)
+    logging.info("poll_data PATH set as : %s",FILE_PATH_DF)
+
+    poll_data.to_csv(FILE_PATH_DF)
     
 
 def analyse_party(party_name, df, logging):

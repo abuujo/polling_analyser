@@ -46,3 +46,18 @@ INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser
 INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\unweighted\p_alp.csv
 INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\unweighted\p_grn.csv
 INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\unweighted\p_other.csv
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\pv.csv
+INFO:root:File Directory set as : PV
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\unweighted\p_lnp.csv
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\unweighted\p_alp.csv
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\unweighted\p_grn.csv
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\unweighted\p_other.csv
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\pv.csv
+INFO:root:File Directory set as : PV
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\unweighted\p_lnp.csv
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\unweighted\p_alp.csv
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\unweighted\p_grn.csv
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\unweighted\p_other.csv
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\unweighted\poll_data.csv
