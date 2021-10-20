@@ -9,15 +9,14 @@ Done:
 - Primary Vote Data
 - Conf Intervals for all parties in the primary vote
 - Program Foundation - argument parsers and file locations
-
-TODO:
-
 - TPP Vote Data
 - Conf Intervals for TPP
 - Leadership and Shadow Leadership Satisfaction & Dissatisfaction data 
 - Conf intervals for leadership
 - Preferred Prime minister / conf interval for preferred prime minister
+
+TODO:
+
 - Weight the polls based on house effect
 - Weight polls based on online vs online - telephone etc (Need to see if online polling has an exaggerated effect on the data since its heavily used in the leadup to the 2022 election)
-
 
