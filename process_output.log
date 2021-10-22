@@ -101,3 +101,15 @@ INFO:root:ppm_sm
 INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\preferred_prime_minister_vote_ppm_aa.csv
 INFO:root:ppm_aa
 INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\preferred_prime_minister_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2019\pv.csv
+INFO:root:File Directory set as : PV
+INFO:root:C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2019
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2019\unweighted\primary_vote_lnp.csv
+INFO:root:lnp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2019\unweighted\primary_vote_alp.csv
+INFO:root:alp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2019\unweighted\primary_vote_grn.csv
+INFO:root:grn
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2019\unweighted\primary_vote_poll_data.csv
