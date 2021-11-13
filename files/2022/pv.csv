@@ -1,4 +1,7 @@
 end_date,brand,interview_mode,sample_size,p_lnp,p_alp,p_grn,p_onp,p_other,tpp_lnp,tpp_alp
+7/11/2021,Roy Morgan ,Telephone/Online ,2723,36.5%,35%,11.5%,3%,14%,46.50%,53.50%
+24/10/2021,Roy Morgan ,Telephone/Online ,2778,36.5%,35%,13.5%,3.5%,11.5%,46.00%,54.00%
+23/10/2021,Newspoll-YouGov ,Online ,1515,35%,38%,11%,3%,13%,46.00%,54.00%
 10/10/2021,Roy Morgan ,Telephone/Online ,2794,37.5%,36%,11.5%,3%,12%,47.00%,53.00%
 02/10/2021,Newspoll-YouGov ,Online ,1545,37%,37%,11%,2%,13%,47.00%,53.00%
 26/09/2021,Roy Morgan ,Telephone/Online ,2752,36%,36%,12.5%,3.5%,12%,46.00%,54.00%
