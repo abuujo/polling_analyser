@@ -1,5 +1,20 @@
 end_date,brand,interview_mode,sample_size,p_lnp,p_alp,p_grn,p_onp,p_uap,p_other,tpp_lnp,tpp_alp
-19/04/2022,Essential[6],Online,1020,37%,35%,9%,3%,4%,5%,46%,47%
+18/05/2022,Ipsos[6],Telephone/online,1996,35%,36%,13%,5%,3%,8%,47%,53%
+17/05/2022,Resolve Strategic[7],Telephone/online,2049,34%,31%,14%,6%,4%,10%,49%,51%
+16/05/2022,Essential[8],Online,1600,36%,35%,9%,4%,3%,6%,46%,48%
+15/05/2022,Roy Morgan[9],Telephone/online,1366,34%,34%,13%,4%,1%,14%,47%,53%
+13/05/2022,Newspoll-YouGov[10],Online,1532,35%,38%,11%,6%,3%,7%,46%,54%
+8/05/2022,Roy Morgan[11],Telephone/online,1401,34%,35.50%,13%,4%,1%,12.50%,45.50%,54.50%
+7/05/2022,Newspoll-YouGov[12],Online,1523,35%,39%,11%,5%,4%,6%,46%,54%
+7/05/2022,Ipsos[13],Telephone/online,2311,29%,35%,12%,4%,3%,10%,43%,57%
+1/05/2022,Roy Morgan[14],Telephone/online,1487,35%,35%,13%,3%,1%,13%,44.50%,55.50%
+30/04/2022,Essential[15],Online,1500,36%,35%,10%,3%,4%,5%,45%,49%
+30/04/2022,Newspoll-YouGov[16],Online,1538,36%,38%,11%,5%,4%,6%,47%,53%
+30/04/2022,Resolve Strategic[17],Online,1408,33%,34%,15%,5%,5%,8%,46%,54%
+24/04/2022,Roy Morgan[18],Telephone/online,1393,35.50%,35%,12%,4.50%,1.50%,11.50%,45.50%,54.50%
+23/04/2022,Newspoll-YouGov[19],Online,1538,36%,37%,11%,3%,4%,9%,47%,53%
+23/04/2022,Ipsos[20],Telephone/online,2302,32%,34%,12%,4%,3%,8%,45%,55%
+20/04/2022,Essential[6],Online,1020,37%,35%,9%,3%,4%,5%,46%,47%
 17/04/2022,Roy Morgan[7],Telephone/online,1382,36%,35%,14%,5%,2%,10%,45%,55%
 17/04/2022,Newspoll-YouGov[8],Online,1510,35%,36%,12%,4%,4%,9%,47%,53%
 16/04/2022,Resolve Strategic[9],Online,1404,35%,34%,11%,4%,4%,13%,,
