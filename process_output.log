@@ -372,3 +372,13 @@ INFO:root:aa_sat
 INFO:root:DF PATH set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\unweighted\leadership_satisfaction_vote_aa_dissat.csv
 INFO:root:aa_dissat
 INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\unweighted\alboleadership_satisfaction_vote_poll_data.csv
+INFO:root:File Root : C:\Users\abood\OneDrive\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\abood\OneDrive\Desktop\Files\Projects\polling_analyser\files\2022\leadership.csv
+INFO:root:File Directory set as : PPM
+INFO:root:C:\Users\abood\OneDrive\Desktop\Files\Projects\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\abood\OneDrive\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\preferred_prime_minister_vote_ppm_sm.csv
+INFO:root:ppm_sm
+INFO:root:DF PATH set as : C:\Users\abood\OneDrive\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\preferred_prime_minister_vote_ppm_aa.csv
+INFO:root:ppm_aa
+INFO:root:poll_data PATH set as : C:\Users\abood\OneDrive\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\preferred_prime_minister_vote_poll_data.csv
