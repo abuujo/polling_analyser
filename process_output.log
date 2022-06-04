@@ -1,0 +1,374 @@
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\pv.csv
+INFO:root:File Directory set as : PV
+INFO:root:C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_lnp.csv
+INFO:root:p_lnp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_alp.csv
+INFO:root:p_alp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_grn.csv
+INFO:root:p_grn
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_onp.csv
+INFO:root:p_onp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_other.csv
+INFO:root:p_other
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\pv.csv
+INFO:root:File Directory set as : TPP
+INFO:root:C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\two_party_pref_vote_tpp_lnp.csv
+INFO:root:tpp_lnp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\two_party_pref_vote_tpp_alp.csv
+INFO:root:tpp_alp
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\two_party_pref_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\leadership.csv
+INFO:root:File Directory set as : LS
+INFO:root:C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\leadership_satisfaction_vote_sm_sat.csv
+INFO:root:sm_sat
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\leadership_satisfaction_vote_sm_dissat.csv
+INFO:root:sm_dissat
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\scomoleadership_satisfaction_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\leadership.csv
+INFO:root:File Directory set as : LS
+INFO:root:C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\leadership_satisfaction_vote_sm_sat.csv
+INFO:root:sm_sat
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\leadership_satisfaction_vote_sm_dissat.csv
+INFO:root:sm_dissat
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\alboleadership_satisfaction_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\pv.csv
+INFO:root:File Directory set as : PV
+INFO:root:C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_lnp.csv
+INFO:root:p_lnp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_alp.csv
+INFO:root:p_alp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_grn.csv
+INFO:root:p_grn
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_onp.csv
+INFO:root:p_onp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_other.csv
+INFO:root:p_other
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\pv.csv
+INFO:root:File Directory set as : TPP
+INFO:root:C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\two_party_pref_vote_tpp_lnp.csv
+INFO:root:tpp_lnp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\two_party_pref_vote_tpp_alp.csv
+INFO:root:tpp_alp
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\two_party_pref_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\leadership.csv
+INFO:root:File Directory set as : LS
+INFO:root:C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\leadership_satisfaction_vote_sm_sat.csv
+INFO:root:sm_sat
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\leadership_satisfaction_vote_sm_dissat.csv
+INFO:root:sm_dissat
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\scomoleadership_satisfaction_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\leadership.csv
+INFO:root:File Directory set as : LS
+INFO:root:C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\leadership_satisfaction_vote_aa_sat.csv
+INFO:root:aa_sat
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\leadership_satisfaction_vote_aa_dissat.csv
+INFO:root:aa_dissat
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\alboleadership_satisfaction_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\leadership.csv
+INFO:root:File Directory set as : PPM
+INFO:root:C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\preferred_prime_minister_vote_ppm_sm.csv
+INFO:root:ppm_sm
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\preferred_prime_minister_vote_ppm_aa.csv
+INFO:root:ppm_aa
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\preferred_prime_minister_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2019\pv.csv
+INFO:root:File Directory set as : PV
+INFO:root:C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2019
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2019\unweighted\primary_vote_lnp.csv
+INFO:root:lnp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2019\unweighted\primary_vote_alp.csv
+INFO:root:alp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2019\unweighted\primary_vote_grn.csv
+INFO:root:grn
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2019\unweighted\primary_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\pv.csv
+INFO:root:File Directory set as : PV
+INFO:root:C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_lnp.csv
+INFO:root:p_lnp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_alp.csv
+INFO:root:p_alp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_grn.csv
+INFO:root:p_grn
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_onp.csv
+INFO:root:p_onp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_other.csv
+INFO:root:p_other
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\pv.csv
+INFO:root:File Directory set as : TPP
+INFO:root:C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\two_party_pref_vote_tpp_lnp.csv
+INFO:root:tpp_lnp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\two_party_pref_vote_tpp_alp.csv
+INFO:root:tpp_alp
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\two_party_pref_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\leadership.csv
+INFO:root:File Directory set as : LS
+INFO:root:C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\leadership_satisfaction_vote_sm_sat.csv
+INFO:root:sm_sat
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\leadership_satisfaction_vote_sm_dissat.csv
+INFO:root:sm_dissat
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\scomoleadership_satisfaction_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\leadership.csv
+INFO:root:File Directory set as : LS
+INFO:root:C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\leadership_satisfaction_vote_aa_sat.csv
+INFO:root:aa_sat
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\leadership_satisfaction_vote_aa_dissat.csv
+INFO:root:aa_dissat
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\alboleadership_satisfaction_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\leadership.csv
+INFO:root:File Directory set as : PPM
+INFO:root:C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\preferred_prime_minister_vote_ppm_sm.csv
+INFO:root:ppm_sm
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\preferred_prime_minister_vote_ppm_aa.csv
+INFO:root:ppm_aa
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\preferred_prime_minister_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\pv.csv
+INFO:root:File Directory set as : PV
+INFO:root:C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_lnp.csv
+INFO:root:p_lnp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_alp.csv
+INFO:root:p_alp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_grn.csv
+INFO:root:p_grn
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_onp.csv
+INFO:root:p_onp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_other.csv
+INFO:root:p_other
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\pv.csv
+INFO:root:File Directory set as : TPP
+INFO:root:C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\two_party_pref_vote_tpp_lnp.csv
+INFO:root:tpp_lnp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\two_party_pref_vote_tpp_alp.csv
+INFO:root:tpp_alp
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\two_party_pref_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\pv.csv
+INFO:root:File Directory set as : PV
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\pv.csv
+INFO:root:File Directory set as : PV
+INFO:root:C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_lnp.csv
+INFO:root:p_lnp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_alp.csv
+INFO:root:p_alp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_grn.csv
+INFO:root:p_grn
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_onp.csv
+INFO:root:p_onp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_other.csv
+INFO:root:p_other
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\pv.csv
+INFO:root:File Directory set as : TPP
+INFO:root:C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\two_party_pref_vote_tpp_lnp.csv
+INFO:root:tpp_lnp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\two_party_pref_vote_tpp_alp.csv
+INFO:root:tpp_alp
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\two_party_pref_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\leadership.csv
+INFO:root:File Directory set as : LS
+INFO:root:C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\leadership_satisfaction_vote_sm_sat.csv
+INFO:root:sm_sat
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\leadership_satisfaction_vote_sm_dissat.csv
+INFO:root:sm_dissat
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\scomoleadership_satisfaction_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\leadership.csv
+INFO:root:File Directory set as : LS
+INFO:root:C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\leadership_satisfaction_vote_aa_sat.csv
+INFO:root:aa_sat
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\leadership_satisfaction_vote_aa_dissat.csv
+INFO:root:aa_dissat
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\alboleadership_satisfaction_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\leadership.csv
+INFO:root:File Directory set as : PPM
+INFO:root:C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\preferred_prime_minister_vote_ppm_sm.csv
+INFO:root:ppm_sm
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\preferred_prime_minister_vote_ppm_aa.csv
+INFO:root:ppm_aa
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\preferred_prime_minister_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\pv.csv
+INFO:root:File Directory set as : PV
+INFO:root:C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_lnp.csv
+INFO:root:p_lnp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_alp.csv
+INFO:root:p_alp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_grn.csv
+INFO:root:p_grn
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_onp.csv
+INFO:root:p_onp
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\pv.csv
+INFO:root:File Directory set as : PV
+INFO:root:C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_lnp.csv
+INFO:root:p_lnp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_alp.csv
+INFO:root:p_alp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_grn.csv
+INFO:root:p_grn
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_onp.csv
+INFO:root:p_onp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_uap.csv
+INFO:root:p_uap
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_p_other.csv
+INFO:root:p_other
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\primary_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Files\Projects\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\pv.csv
+INFO:root:File Directory set as : TPP
+INFO:root:C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\two_party_pref_vote_tpp_lnp.csv
+INFO:root:tpp_lnp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\two_party_pref_vote_tpp_alp.csv
+INFO:root:tpp_alp
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Files\Projects\polling_analyser\files\2022\unweighted\two_party_pref_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Work\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\pv.csv
+INFO:root:File Directory set as : PV
+INFO:root:C:\Users\John\Desktop\Work\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\unweighted\primary_vote_p_lnp.csv
+INFO:root:p_lnp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\unweighted\primary_vote_p_alp.csv
+INFO:root:p_alp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\unweighted\primary_vote_p_grn.csv
+INFO:root:p_grn
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\unweighted\primary_vote_p_onp.csv
+INFO:root:p_onp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\unweighted\primary_vote_p_uap.csv
+INFO:root:p_uap
+INFO:root:File Root : C:\Users\John\Desktop\Work\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\pv.csv
+INFO:root:File Directory set as : PV
+INFO:root:C:\Users\John\Desktop\Work\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\unweighted\primary_vote_p_lnp.csv
+INFO:root:p_lnp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\unweighted\primary_vote_p_alp.csv
+INFO:root:p_alp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\unweighted\primary_vote_p_grn.csv
+INFO:root:p_grn
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\unweighted\primary_vote_p_onp.csv
+INFO:root:p_onp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\unweighted\primary_vote_p_uap.csv
+INFO:root:p_uap
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\unweighted\primary_vote_p_other.csv
+INFO:root:p_other
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\unweighted\primary_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Work\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\pv.csv
+INFO:root:File Directory set as : TPP
+INFO:root:C:\Users\John\Desktop\Work\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\unweighted\two_party_pref_vote_tpp_lnp.csv
+INFO:root:tpp_lnp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\unweighted\two_party_pref_vote_tpp_alp.csv
+INFO:root:tpp_alp
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\unweighted\two_party_pref_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Work\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\pv.csv
+INFO:root:File Directory set as : TPP
+INFO:root:C:\Users\John\Desktop\Work\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\unweighted\two_party_pref_vote_tpp_lnp.csv
+INFO:root:tpp_lnp
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\unweighted\two_party_pref_vote_tpp_alp.csv
+INFO:root:tpp_alp
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\unweighted\two_party_pref_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Work\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\leadership.csv
+INFO:root:File Directory set as : LS
+INFO:root:C:\Users\John\Desktop\Work\polling_analyser\files\2022
+INFO:root:File Root : C:\Users\John\Desktop\Work\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\leadership.csv
+INFO:root:File Directory set as : LS
+INFO:root:C:\Users\John\Desktop\Work\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\unweighted\leadership_satisfaction_vote_sm_sat.csv
+INFO:root:sm_sat
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\unweighted\leadership_satisfaction_vote_sm_dissat.csv
+INFO:root:sm_dissat
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\unweighted\scomoleadership_satisfaction_vote_poll_data.csv
+INFO:root:File Root : C:\Users\John\Desktop\Work\polling_analyser\files
+INFO:root:File path set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\leadership.csv
+INFO:root:File Directory set as : LS
+INFO:root:C:\Users\John\Desktop\Work\polling_analyser\files\2022
+INFO:root:Columns recorded: 
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\unweighted\leadership_satisfaction_vote_aa_sat.csv
+INFO:root:aa_sat
+INFO:root:DF PATH set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\unweighted\leadership_satisfaction_vote_aa_dissat.csv
+INFO:root:aa_dissat
+INFO:root:poll_data PATH set as : C:\Users\John\Desktop\Work\polling_analyser\files\2022\unweighted\alboleadership_satisfaction_vote_poll_data.csv
